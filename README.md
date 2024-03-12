@@ -1,8 +1,3 @@
 # Password-Generation
 password generator creates random passwords <br/>
-ascript
-angular
-code-quality
-spacex
-coding-skills
-free-project
+ascript angular <br/>code-quality<br/> spacex <br/>coding-skills <br/>free-project
